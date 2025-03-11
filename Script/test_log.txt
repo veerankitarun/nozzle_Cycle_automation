@@ -1,0 +1,349 @@
+[96m2025-03-03 10:23:30 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 10:23:30 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 10:23:30 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 10:23:30 - INFO - === Starting cycle 1 at 2025-03-03 10:23:30 ===[0m
+[96m2025-03-03 10:23:30 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 10:23:31 - INFO - Received response: Integrated System Initialized[0m
+[96m2025-03-03 10:23:31 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 10:23:32 - INFO - Received response: Received command: AT+ANG=-122[0m
+[96m2025-03-03 10:23:32 - INFO - Received response: Calculated steps for -122.00°: -271[0m
+[96m2025-03-03 10:23:32 - INFO - Received response: Stepper moved to -122.00°.[0m
+[96m2025-03-03 10:23:32 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 10:23:33 - INFO - Received response: Received command: AT+ANG=0[0m
+[96m2025-03-03 10:23:33 - INFO - Received response: Calculated steps for 0.00°: 0[0m
+[96m2025-03-03 10:23:33 - INFO - Received response: Stepper moved to 0.00°.[0m
+[96m2025-03-03 10:23:33 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 10:23:34 - INFO - Received response: Received command: AT+DOWN[0m
+[96m2025-03-03 10:23:34 - INFO - Received response: DC Motor OFF[0m
+[96m2025-03-03 10:23:34 - INFO - === Completed cycle 1 at 2025-03-03 10:23:34 ===
+[0m
+[96m2025-03-03 12:19:19 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:19:19 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:19:19 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:19:19 - INFO - === Starting cycle 1 at 2025-03-03 12:19:19 ===[0m
+[96m2025-03-03 12:19:19 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:19:20 - INFO - Received response: Integrated System Initialized[0m
+[91m2025-03-03 12:19:29 - ERROR - Timeout waiting for OK response for command: AT+UP[0m
+[96m2025-03-03 12:19:29 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:19:30 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:30 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:19:31 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:31 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:19:31 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:31 - INFO - === Completed cycle 1 at 2025-03-03 12:19:31 ===[0m
+[96m2025-03-03 12:19:33 - INFO - === Starting cycle 2 at 2025-03-03 12:19:33 ===[0m
+[96m2025-03-03 12:19:33 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:19:33 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:33 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:19:34 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:34 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:19:35 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:35 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:19:35 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:35 - INFO - === Completed cycle 2 at 2025-03-03 12:19:35 ===[0m
+[96m2025-03-03 12:19:37 - INFO - === Starting cycle 3 at 2025-03-03 12:19:37 ===[0m
+[96m2025-03-03 12:19:37 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:19:37 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:37 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:19:38 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:38 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:19:39 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:39 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:19:39 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:39 - INFO - === Completed cycle 3 at 2025-03-03 12:19:39 ===[0m
+[96m2025-03-03 12:19:41 - INFO - === Starting cycle 4 at 2025-03-03 12:19:41 ===[0m
+[96m2025-03-03 12:19:41 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:19:41 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:41 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:19:42 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:42 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:19:43 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:43 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:19:43 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:43 - INFO - === Completed cycle 4 at 2025-03-03 12:19:43 ===[0m
+[96m2025-03-03 12:19:45 - INFO - === Starting cycle 5 at 2025-03-03 12:19:45 ===[0m
+[96m2025-03-03 12:19:45 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:19:45 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:45 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:19:46 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:46 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:19:47 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:47 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:19:47 - INFO - Received response: OK[0m
+[96m2025-03-03 12:19:47 - INFO - === Completed cycle 5 at 2025-03-03 12:19:47 ===[0m
+[96m2025-03-03 12:19:49 - INFO - Arduino connection closed.[0m
+[96m2025-03-03 12:21:42 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:21:42 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:21:42 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:21:42 - INFO - === Starting cycle 1 at 2025-03-03 12:21:42 ===[0m
+[96m2025-03-03 12:21:42 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:21:43 - INFO - Received response: Integrated System Initialized[0m
+[91m2025-03-03 12:21:52 - ERROR - Timeout waiting for OK response for command: AT+UP[0m
+[96m2025-03-03 12:22:18 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:22:18 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:22:18 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:22:18 - INFO - === Starting cycle 1 at 2025-03-03 12:22:18 ===[0m
+[96m2025-03-03 12:22:18 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:22:19 - INFO - Received response: Integrated System Initialized[0m
+[91m2025-03-03 12:22:28 - ERROR - Timeout waiting for OK response for command: AT+DOWN[0m
+[96m2025-03-03 12:22:44 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:22:44 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:22:44 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:22:44 - INFO - === Starting cycle 1 at 2025-03-03 12:22:44 ===[0m
+[96m2025-03-03 12:22:44 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:22:45 - INFO - Received response: Integrated System Initialized[0m
+[91m2025-03-03 12:22:54 - ERROR - Timeout waiting for OK response for command: AT+DOWN[0m
+[96m2025-03-03 12:25:22 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:25:22 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:25:22 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:25:22 - INFO - === Starting cycle 1 at 2025-03-03 12:25:22 ===[0m
+[96m2025-03-03 12:25:22 - INFO - Sending command: AT+UP[0m
+[91m2025-03-03 12:25:32 - ERROR - Timeout waiting for OK response for command: AT+UP[0m
+[96m2025-03-03 12:25:52 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:25:52 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:25:52 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:25:52 - INFO - === Starting cycle 1 at 2025-03-03 12:25:52 ===[0m
+[96m2025-03-03 12:26:32 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:26:32 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:26:32 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:26:32 - INFO - === Starting cycle 1 at 2025-03-03 12:26:32 ===[0m
+[96m2025-03-03 12:27:12 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:27:12 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:27:12 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:27:12 - INFO - === Starting cycle 1 at 2025-03-03 12:27:12 ===[0m
+[96m2025-03-03 12:27:19 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:27:19 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:27:19 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:27:19 - INFO - === Starting cycle 1 at 2025-03-03 12:27:19 ===[0m
+[96m2025-03-03 12:27:45 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:27:45 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:27:45 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:27:45 - INFO - === Starting cycle 1 at 2025-03-03 12:27:45 ===[0m
+[96m2025-03-03 12:27:46 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:27:46 - INFO - Received response: OK[0m
+[96m2025-03-03 12:28:22 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:28:22 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:28:22 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:28:22 - INFO - === Starting cycle 1 at 2025-03-03 12:28:22 ===[0m
+[96m2025-03-03 12:28:23 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:28:24 - INFO - Received response: OK[0m
+[96m2025-03-03 12:28:26 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:28:26 - INFO - Received response: OK[0m
+[96m2025-03-03 12:28:26 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:28:27 - INFO - Received response: OK[0m
+[96m2025-03-03 12:28:27 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:28:27 - INFO - Received response: OK[0m
+[96m2025-03-03 12:28:29 - INFO - === Completed cycle 1 at 2025-03-03 12:28:29 ===[0m
+[96m2025-03-03 12:30:36 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:30:36 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:30:36 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:30:36 - INFO - === Starting cycle 1 at 2025-03-03 12:30:36 ===[0m
+[96m2025-03-03 12:30:37 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:30:37 - INFO - Received response: OK[0m
+[96m2025-03-03 12:30:57 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:30:58 - INFO - Received response: OK[0m
+[96m2025-03-03 12:30:58 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:30:59 - INFO - Received response: OK[0m
+[96m2025-03-03 12:30:59 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:30:59 - INFO - Received response: OK[0m
+[96m2025-03-03 12:31:19 - INFO - === Completed cycle 1 at 2025-03-03 12:31:19 ===[0m
+[96m2025-03-03 12:32:59 - INFO - === Starting cycle 2 at 2025-03-03 12:32:59 ===[0m
+[96m2025-03-03 12:33:00 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:33:00 - INFO - Received response: OK[0m
+[96m2025-03-03 12:33:20 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:33:21 - INFO - Received response: OK[0m
+[96m2025-03-03 12:33:21 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:33:22 - INFO - Received response: OK[0m
+[96m2025-03-03 12:33:22 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:33:22 - INFO - Received response: OK[0m
+[96m2025-03-03 12:33:42 - INFO - === Completed cycle 2 at 2025-03-03 12:33:42 ===[0m
+[96m2025-03-03 12:34:10 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 12:34:10 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 12:34:10 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 12:34:10 - INFO - === Starting cycle 1 at 2025-03-03 12:34:10 ===[0m
+[96m2025-03-03 12:34:11 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:34:11 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:13 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:34:14 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:14 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:34:15 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:15 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:34:15 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:17 - INFO - === Completed cycle 1 at 2025-03-03 12:34:17 ===[0m
+[96m2025-03-03 12:34:19 - INFO - === Starting cycle 2 at 2025-03-03 12:34:19 ===[0m
+[96m2025-03-03 12:34:20 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:34:20 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:22 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:34:23 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:23 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:34:24 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:24 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:34:24 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:26 - INFO - === Completed cycle 2 at 2025-03-03 12:34:26 ===[0m
+[96m2025-03-03 12:34:34 - INFO - === Starting cycle 1 at 2025-03-03 12:34:34 ===[0m
+[96m2025-03-03 12:34:35 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:34:35 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:37 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:34:38 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:38 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:34:39 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:39 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:34:39 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:41 - INFO - === Completed cycle 1 at 2025-03-03 12:34:41 ===[0m
+[96m2025-03-03 12:34:43 - INFO - === Starting cycle 2 at 2025-03-03 12:34:43 ===[0m
+[96m2025-03-03 12:34:44 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 12:34:44 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:46 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 12:34:47 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:47 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 12:34:48 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:48 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 12:34:48 - INFO - Received response: OK[0m
+[96m2025-03-03 12:34:50 - INFO - === Completed cycle 2 at 2025-03-03 12:34:50 ===[0m
+[96m2025-03-03 12:34:55 - INFO - Arduino connection closed.[0m
+[96m2025-03-03 13:46:45 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 13:46:45 - INFO - Configuration loaded successfully.[0m
+[91m2025-03-03 13:46:45 - ERROR - Failed to connect to Arduino on COM4: could not open port 'COM4': PermissionError(13, 'Access is denied.', None, 5)[0m
+[96m2025-03-03 14:02:41 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:02:41 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:02:41 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:02:56 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:02:56 - INFO - Received response: Stepper Zero position set.[0m
+[91m2025-03-03 14:03:06 - ERROR - Timeout waiting for OK response for command: AT+CZO[0m
+[96m2025-03-03 14:04:41 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:04:41 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:04:41 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:04:44 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:04:44 - INFO - Received response: OK[0m
+[96m2025-03-03 14:06:15 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:06:15 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:06:15 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:06:17 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:06:17 - INFO - Received response: OK[0m
+[96m2025-03-03 14:10:15 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:10:15 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:10:15 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:12:24 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:12:24 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:12:24 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:12:27 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:12:27 - INFO - Received response: OK[0m
+[96m2025-03-03 14:13:23 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:13:23 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:13:23 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:13:25 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:13:25 - INFO - Received response: OK[0m
+[96m2025-03-03 14:16:01 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:16:01 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:16:01 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:16:03 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:16:04 - INFO - Received response: OK[0m
+[96m2025-03-03 14:20:38 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:20:38 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:20:38 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:20:41 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:20:41 - INFO - Received response: OK[0m
+[96m2025-03-03 14:25:53 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:25:53 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:25:53 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:25:57 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:25:57 - INFO - Received response: OK[0m
+[96m2025-03-03 14:28:52 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:28:52 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:28:52 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:28:55 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:28:55 - INFO - Received response: OK[0m
+[96m2025-03-03 14:31:48 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:31:48 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:31:48 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:31:58 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:31:59 - INFO - Received response: OK[0m
+[96m2025-03-03 14:39:42 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:39:42 - INFO - Configuration loaded successfully.[0m
+[91m2025-03-03 14:39:42 - ERROR - Failed to connect to Arduino on COM4: could not open port 'COM4': PermissionError(13, 'Access is denied.', None, 5)[0m
+[96m2025-03-03 14:39:51 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:39:51 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:39:51 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:39:51 - INFO - === Starting cycle 1 at 2025-03-03 14:39:51 ===[0m
+[96m2025-03-03 14:39:52 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:39:52 - INFO - Received response: OK[0m
+[96m2025-03-03 14:39:54 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 14:39:55 - INFO - Received response: OK[0m
+[96m2025-03-03 14:39:56 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:39:56 - INFO - Received response: OK[0m
+[96m2025-03-03 14:39:56 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 14:39:57 - INFO - Received response: OK[0m
+[96m2025-03-03 14:39:58 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:39:58 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:00 - INFO - === Completed cycle 1 at 2025-03-03 14:40:00 ===[0m
+[96m2025-03-03 14:40:02 - INFO - === Starting cycle 2 at 2025-03-03 14:40:02 ===[0m
+[96m2025-03-03 14:40:03 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:40:03 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:05 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 14:40:06 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:07 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:40:07 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:07 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 14:40:08 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:09 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:40:09 - INFO - Received response: OK[0m
+[96m2025-03-03 14:40:11 - INFO - === Completed cycle 2 at 2025-03-03 14:40:11 ===[0m
+[96m2025-03-03 14:41:16 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:41:16 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:41:16 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:41:16 - INFO - === Starting cycle 1 at 2025-03-03 14:41:16 ===[0m
+[96m2025-03-03 14:41:17 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:41:17 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:19 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 14:41:20 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:21 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:41:22 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:23 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:41:23 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:24 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 14:41:25 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:26 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:41:26 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:28 - INFO - === Completed cycle 1 at 2025-03-03 14:41:28 ===[0m
+[96m2025-03-03 14:41:35 - INFO - Arduino connection closed.[0m
+[96m2025-03-03 14:41:49 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:41:49 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:41:49 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:41:49 - INFO - === Starting cycle 1 at 2025-03-03 14:41:49 ===[0m
+[96m2025-03-03 14:41:50 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:41:50 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:52 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 14:41:53 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:54 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:41:54 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:56 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:41:56 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:57 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 14:41:58 - INFO - Received response: OK[0m
+[96m2025-03-03 14:41:59 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:41:59 - INFO - Received response: OK[0m
+[96m2025-03-03 14:42:01 - INFO - === Completed cycle 1 at 2025-03-03 14:42:01 ===[0m
+[96m2025-03-03 14:42:44 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:42:44 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:42:44 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:42:44 - INFO - === Starting cycle 1 at 2025-03-03 14:42:44 ===[0m
+[96m2025-03-03 14:42:45 - INFO - Sending command: AT+UP[0m
+[96m2025-03-03 14:42:45 - INFO - Received response: OK[0m
+[96m2025-03-03 14:42:47 - INFO - Sending command: AT+ANG=-122[0m
+[96m2025-03-03 14:42:48 - INFO - Received response: OK[0m
+[96m2025-03-03 14:42:49 - INFO - Sending command: AT+ANG=0[0m
+[96m2025-03-03 14:42:50 - INFO - Received response: OK[0m
+[96m2025-03-03 14:42:51 - INFO - Sending command: AT+DOWN[0m
+[96m2025-03-03 14:42:51 - INFO - Received response: OK[0m
+[96m2025-03-03 14:42:53 - INFO - === Completed cycle 1 at 2025-03-03 14:42:53 ===[0m
+[96m2025-03-03 14:42:59 - INFO - Arduino connection closed.[0m
+[96m2025-03-03 14:44:10 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-03 14:44:10 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-03 14:44:10 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-03 14:44:22 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-03 14:44:22 - INFO - Received response: OK[0m
+[96m2025-03-04 10:01:46 - INFO - Logger initialized in CMD window and log file.[0m
+[96m2025-03-04 10:01:46 - INFO - Configuration loaded successfully.[0m
+[96m2025-03-04 10:01:46 - INFO - Connected to Arduino on COM4 at 9600 baud.[0m
+[96m2025-03-04 10:02:03 - INFO - Sending command: AT+CZO[0m
+[96m2025-03-04 10:02:03 - INFO - Received response: OK[0m
